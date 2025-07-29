@@ -314,7 +314,7 @@ html {
 
 body {
     margin : 0;
-    overflow:hidden;
+    scrollbar-track-color: #000000;
 }
 
 main {
